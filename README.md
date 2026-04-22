@@ -1,5 +1,5 @@
 # Weather MCP Server
-
+ 
 A Model Context Protocol (MCP) server built with `FastMCP` that provides US weather forecasts and active alerts using the [National Weather Service (NWS) API](https://api.weather.gov).
 
 ## Features (Tools Provided)
